@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: birl_baxter_urdf
+    relative_path: urdf/baxter_r_ft_l_noft.urdf
+  SRDF:
+    relative_path: config/baxter.srdf
+  CONFIG:
+    author_name: tony
+    author_email: 470963660@qq.com
+    generated_timestamp: 1519858533
